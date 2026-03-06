@@ -1,0 +1,16 @@
+macro_variable,corr_with_perf_index,brand
+gdp_millions_cvm,0.528802796,Burberry
+unemployment_rate,-0.623847138,Burberry
+bank_rate_eoy,0.226063883,Burberry
+cpih_clothing_index_avg,0.447093406,Burberry
+retail_tcf_avg_weekly_thou,0.408941062,Burberry
+gdp_millions_cvm,0.794001439,Nobody's Child
+unemployment_rate,-0.468585602,Nobody's Child
+bank_rate_eoy,0.632637286,Nobody's Child
+cpih_clothing_index_avg,0.588551851,Nobody's Child
+retail_tcf_avg_weekly_thou,0.488182091,Nobody's Child
+gdp_millions_cvm,0.593096311,Primark
+unemployment_rate,-0.760486787,Primark
+bank_rate_eoy,-0.083378634,Primark
+cpih_clothing_index_avg,0.229553885,Primark
+retail_tcf_avg_weekly_thou,0.421841158,Primark
